@@ -117,7 +117,7 @@ Object states:
   
   <!-- Cluster Profile -->
   <tr>
-    <td rowspan="4">Cluster Profile</td>
+    <td rowspan="5">Cluster Profile</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -125,6 +125,12 @@ Object states:
   </tr>
   <tr>
     <td>Deploy</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Scale</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
