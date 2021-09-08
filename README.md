@@ -29,7 +29,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 ## Kubernetes
 | Object | Operation | Maintainer | Status | Reference |
 |--------|-----------|------------|--------|-----------|
-| Pod | Create/Update | @mimaurer | :large_blue_circle:  Planned | Link |
+| Pod | Create/Update | @mimaurer | :large_blue_circle: Planned | Link |
 
 ## Nexus
 
