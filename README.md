@@ -297,7 +297,7 @@ Object states:
   
   <!-- Virtual Machine -->
   <tr>
-    <td rowspan="3">Virtual Machine</td>
+    <td rowspan="5">Virtual Machine</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
