@@ -294,6 +294,21 @@ Object states:
     <th>Link</th>
   </tr>
   
+  <!-- HTTP Target -->
+  <tr>
+    <td rowspan="2">HTTP Target</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Workflow -->
   <tr>
     <td>Workflow</td>
