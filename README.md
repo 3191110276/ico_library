@@ -327,6 +327,24 @@ Object states:
   </tr>
 </table>
 
+### Composite
+<table>
+  <tr>
+    <th>Action</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <tr>
+    <td>Create basic ESXi 7 Policies and Profile</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
+
+
 ## Intersight Virtualization
 
 ### Simple
