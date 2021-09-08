@@ -361,6 +361,39 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Chassis Profile -->
+  <tr>
+    <td rowspan="5">Chassis Profile</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Clone</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deploy</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Unassign</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Certificate Management Policy -->
   <tr>
     <td rowspan="2">Certificate Management Policy</td>
@@ -380,6 +413,39 @@ Object states:
   <tr>
     <td rowspan="2">Device Connector Policy</td>
     <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Domain Profile -->
+  <tr>
+    <td rowspan="5">Domain Profile</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Clone</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deploy</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Unassign</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
