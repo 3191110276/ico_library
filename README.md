@@ -115,6 +115,33 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Cluster Profile -->
+  <tr>
+    <td rowspan="4">Cluster Profile</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deploy</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Undeploy</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Container Runtime Policy -->
   <tr>
     <td rowspan="2">Container Runtime Policy</td>
