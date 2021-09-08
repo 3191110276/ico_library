@@ -910,6 +910,21 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Thermal Policy -->
+  <tr>
+    <td rowspan="2">Thermal Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Virtual KVM Policy -->
   <tr>
     <td rowspan="2">Virtual KVM Policy</td>
