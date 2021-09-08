@@ -48,7 +48,6 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td>Link</td>
   </tr>
   <tr>
-    <td rowspan="2">Pod</td>
     <td>Delete</td>
     <td>@mimaurer</td>
     <td>:large_blue_circle: Planned</td>
