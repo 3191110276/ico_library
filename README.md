@@ -50,6 +50,8 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   </tr>
 </table>
 
+[Michael Maurer](https://github.com/3191110276)
+
 ## Nexus
 
 ## ThousandEyes
