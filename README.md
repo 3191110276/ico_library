@@ -10,6 +10,8 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [ThousandEyes](#ThousandEyes)
 * [Webex](#Webex)
 
+
+<!--  
 Object states:
 
 :white_check_mark: Implemented
@@ -19,6 +21,7 @@ Object states:
 :large_blue_circle: Planned
 
 :red_circle: Blocked
+-->
 
 
 ## ACI
