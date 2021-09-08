@@ -34,7 +34,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Tenant -->
@@ -63,7 +63,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Application -->
@@ -107,7 +107,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Add-Ons Policy -->
@@ -291,7 +291,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Workflow -->
@@ -313,7 +313,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Adapter Configuration Policy -->
@@ -1097,7 +1097,7 @@ Object states:
     <th>Action</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <tr>
@@ -1118,7 +1118,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Virtual Machine -->
@@ -1164,7 +1164,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- ClusterRole -->
@@ -1585,7 +1585,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Test -->
@@ -1613,7 +1613,7 @@ Object states:
     <th>Operation</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <!-- Membership -->
