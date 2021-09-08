@@ -38,7 +38,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <tr>
     <td rowspan="2">Pod</td>
     <td>Create/Update</td>
-    <td>@3191110276</td>
+    <td>[Michael Maurer](https://github.com/3191110276)</td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
