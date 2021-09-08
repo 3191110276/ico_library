@@ -156,6 +156,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
+  <!-- Role -->
+  <tr>
+    <td rowspan="2">Role</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Secret -->
   <tr>
     <td rowspan="2">Secret</td>
