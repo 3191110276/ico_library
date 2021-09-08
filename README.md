@@ -36,6 +36,36 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <th>Reference</th>
   </tr>
   
+  <!-- ClusterRole -->
+  <tr>
+    <td rowspan="2">ClusterRole</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ClusterRoleBinding -->
+  <tr>
+    <td rowspan="2">ClusterRoleBinding</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- ConfigMap -->
   <tr>
     <td rowspan="2">ConfigMap</td>
@@ -159,6 +189,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <!-- Role -->
   <tr>
     <td rowspan="2">Role</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- RoleBinding -->
+  <tr>
+    <td rowspan="2">RoleBinding</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
