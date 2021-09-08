@@ -13,7 +13,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 
 :white_check_mark: Implemented
 :construction: Work in Progress
-:large_blue_circle: Planned
+
 :red_circle: Blocked
 
 ## ACI
@@ -27,9 +27,9 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 ## Intersight Virtualization
 
 ## Kubernetes
-| Object                    | Operation     | Maintainer | Status          | Reference                         |
-|---------------------------|---------------|------------|-----------------|-----------------------------------|
-| Pod                       | Create/Update | @mimaurer  | Not implemented | Link                              |
+| Object | Operation | Maintainer | Status | Reference |
+|--------|-----------|------------|--------|-----------|
+| Pod | Create/Update | @mimaurer | :large_blue_circle: Planned | Link |
 
 ## Nexus
 
