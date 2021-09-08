@@ -551,6 +551,15 @@ Object states:
     <th>Reference</th>
   </tr>
   
+  <!-- Message -->
+  <tr>
+    <td>Message</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Space -->
   <tr>
     <td rowspan="2">Space</td>
