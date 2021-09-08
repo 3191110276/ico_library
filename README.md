@@ -31,6 +31,23 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 |--------|-----------|------------|--------|-----------|
 | Pod | Create/Update | @mimaurer | :large_blue_circle: Planned | Link |
 
+
+
+You can use HTML tables on GitHub (but not on StackOverflow)
+
+<table>
+  <tr>
+    <td>Object</td>
+    <td>Operation</td>
+    <td>Maintainer</td>
+    <td>Status</td>
+    <td>Reference</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Pod</td>
+  </tr>
+</table>
+
 ## Nexus
 
 ## ThousandEyes
