@@ -36,6 +36,66 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <th>Reference</th>
   </tr>
   
+  <!-- Deployment -->
+  <tr>
+    <td rowspan="2">Deployment</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ingress -->
+  <tr>
+    <td rowspan="2">Ingress</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Persistent Volume -->
+  <tr>
+    <td rowspan="2">Persistent Volume</td>
+    <td>Create/Update</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Persistent Volume Claim -->
+  <tr>
+    <td rowspan="2">Persistent Volume Claim</td>
+    <td>Create/Update</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Pod -->
   <tr>
     <td rowspan="2">Pod</td>
@@ -66,9 +126,9 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
-  <!-- Deployment -->
+  <!-- Service -->
   <tr>
-    <td rowspan="2">Deployment</td>
+    <td rowspan="2">Service</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -80,6 +140,8 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
+  
+
 </table>
 
 ## Nexus
