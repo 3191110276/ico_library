@@ -81,6 +81,36 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
+  <!-- CronJob -->
+  <tr>
+    <td rowspan="2">CronJob</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- DaemonSet -->
+  <tr>
+    <td rowspan="2">DaemonSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Deployment -->
   <tr>
     <td rowspan="2">Deployment</td>
@@ -126,9 +156,9 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
-  <!-- Persistent Volume -->
+  <!-- NetworkPolicy -->
   <tr>
-    <td rowspan="2">Persistent Volume</td>
+    <td rowspan="2">NetworkPolicy</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -141,9 +171,24 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
-  <!-- Persistent Volume Claim -->
+  <!-- PersistentVolume -->
   <tr>
-    <td rowspan="2">Persistent Volume Claim</td>
+    <td rowspan="2">PersistentVolume</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PersistentVolumeClaim -->
+  <tr>
+    <td rowspan="2">PersistentVolumeClaim</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -159,6 +204,36 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <!-- Pod -->
   <tr>
     <td rowspan="2">Pod</td>
+    <td>Create/Update</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PodDisruptionBudget -->
+  <tr>
+    <td rowspan="2">PodDisruptionBudget</td>
+    <td>Create/Update</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PodSecurityPolicy -->
+  <tr>
+    <td rowspan="2">PodSecurityPolicy</td>
     <td>Create/Update</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
@@ -234,6 +309,51 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <!-- Service -->
   <tr>
     <td rowspan="2">Service</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ServiceAccount -->
+  <tr>
+    <td rowspan="2">ServiceAccount</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- StatefulSet -->
+  <tr>
+    <td rowspan="2">StatefulSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- StorageClass -->
+  <tr>
+    <td rowspan="2">StorageClass</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
