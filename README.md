@@ -19,6 +19,46 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 ## ACI
 
 ## AppDynamics
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <!-- Application -->
+  <tr>
+    <td rowspan="2">Application</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Database -->
+  <tr>
+    <td rowspan="2">Database</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
+
 
 ## Intersight Kubernetes
 
@@ -440,16 +480,14 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
-
 </table>
+
 
 ## Nexus
 
 ## ThousandEyes
 
 ## Webex
-
-
 <table>
   <tr>
     <th>Object</th>
@@ -473,5 +511,19 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
-
+  
+  <!-- Webhook -->
+  <tr>
+    <td rowspan="2">Webhook</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
 </table>
