@@ -293,6 +293,276 @@ Object states:
     <th>Reference</th>
   </tr>
   
+  <!-- Adapter Configuration Policy -->
+  <tr>
+    <td rowspan="2">Adapter Configuration Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- BIOS Policy -->
+  <tr>
+    <td rowspan="2">BIOS Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Boot Order Policy -->
+  <tr>
+    <td rowspan="2">Boot Order Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Certificate Management Policy -->
+  <tr>
+    <td rowspan="2">Certificate Management Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Device Connector Policy -->
+  <tr>
+    <td rowspan="2">Device Connector Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ethernet Adapter Policy -->
+  <tr>
+    <td rowspan="2">Ethernet Adapter Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ethernet Network Policy -->
+  <tr>
+    <td rowspan="2">Ethernet Network Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ethernet Network Control Policy -->
+  <tr>
+    <td rowspan="2">Ethernet Network Control Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ethernet Network Group Policy -->
+  <tr>
+    <td rowspan="2">Ethernet Network Group Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ethernet QoS Policy -->
+  <tr>
+    <td rowspan="2">Ethernet QoS Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Fibre Channel Adapter Policy -->
+  <tr>
+    <td rowspan="2">Fibre Channel Adapter Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Fibre Channel Network Policy -->
+  <tr>
+    <td rowspan="2">Fibre Channel Network Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Fibre Channel QoS Policy -->
+  <tr>
+    <td rowspan="2">Fibre Channel QoS Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- IMC Access Policy -->
+  <tr>
+    <td rowspan="2">IMC Access Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- IPMI Over LAN Policy -->
+  <tr>
+    <td rowspan="2">IPMI Over LAN Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- iSCSI Adapter Policy -->
+  <tr>
+    <td rowspan="2">iSCSI Adapter Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- iSCSI Boot Policy -->
+  <tr>
+    <td rowspan="2">iSCSI Boot Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- iSCSI Static Target Policy -->
+  <tr>
+    <td rowspan="2">iSCSI Static Target Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Server Profile -->
   <tr>
     <td rowspan="5">Server Profile</td>
