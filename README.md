@@ -35,6 +35,8 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <th>Status</th>
     <th>Reference</th>
   </tr>
+  
+  <!-- Pod -->
   <tr>
     <td rowspan="2">Pod</td>
     <td>Create/Update</td>
@@ -45,6 +47,36 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ReplicaSet -->
+  <tr>
+    <td rowspan="2">ReplicaSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Deployment -->
+  <tr>
+    <td rowspan="2">Deployment</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
