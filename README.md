@@ -440,7 +440,6 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
-  
 
 </table>
 
@@ -449,3 +448,30 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 ## ThousandEyes
 
 ## Webex
+
+
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <!-- Space -->
+  <tr>
+    <td rowspan="2">Space</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+
+</table>
