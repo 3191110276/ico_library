@@ -91,6 +91,8 @@ Object states:
 
 
 ## Intersight Kubernetes
+
+### Simple
 <table>
   <tr>
     <th>Object</th>
@@ -253,6 +255,24 @@ Object states:
     <td></td>
   </tr>
 </table>
+
+### Composite
+<table>
+  <tr>
+    <th>Action</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <tr>
+    <td>Create and deploy a Cluster, including Policies</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
+
 
 ## Intersight UCS Management
 
