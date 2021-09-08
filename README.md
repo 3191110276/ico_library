@@ -96,6 +96,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
+  <!-- CustomResourceDefinition -->
+  <tr>
+    <td rowspan="2">CustomResourceDefinition</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- DaemonSet -->
   <tr>
     <td rowspan="2">DaemonSet</td>
@@ -126,9 +141,39 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
+  <!-- HorizontalPodAutoscaler -->
+  <tr>
+    <td rowspan="2">HorizontalPodAutoscaler</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Ingress -->
   <tr>
     <td rowspan="2">Ingress</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Job -->
+  <tr>
+    <td rowspan="2">Job</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -151,6 +196,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   </tr>
   <tr>
     <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Node -->
+  <tr>
+    <td rowspan="2">Node</td>
+    <td>Drain</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Uncordon</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
@@ -249,6 +309,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <!-- ReplicaSet -->
   <tr>
     <td rowspan="2">ReplicaSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ResourceQuota -->
+  <tr>
+    <td rowspan="2">ResourceQuota</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
