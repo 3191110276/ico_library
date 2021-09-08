@@ -1590,7 +1590,7 @@ Object states:
   
   <!-- Test -->
   <tr>
-    <td rowspan="2">TestTenant</td>
+    <td rowspan="2">Test</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
