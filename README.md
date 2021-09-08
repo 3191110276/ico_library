@@ -586,6 +586,156 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- LAN Connectivity Policy -->
+  <tr>
+    <td rowspan="2">LAN Connectivity Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- LDAP Policy -->
+  <tr>
+    <td rowspan="2">LDAP Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Local User Policy -->
+  <tr>
+    <td rowspan="2">Local User Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Network Connectivity Policy -->
+  <tr>
+    <td rowspan="2">Network Connectivity Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- NTP Policy -->
+  <tr>
+    <td rowspan="2">NTP Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Persistent Memory Policy -->
+  <tr>
+    <td rowspan="2">Persistent Memory Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Power Policy -->
+  <tr>
+    <td rowspan="2">Power Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- SAN Connectivity Policy -->
+  <tr>
+    <td rowspan="2">SAN Connectivity Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- SD Card Policy -->
+  <tr>
+    <td rowspan="2">SD Card Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Serial Over LAN Policy -->
+  <tr>
+    <td rowspan="2">Serial Over LAN Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Server Profile -->
   <tr>
     <td rowspan="5">Server Profile</td>
@@ -608,6 +758,111 @@ Object states:
   </tr>
   <tr>
     <td>Unassign</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- SMTP Policy -->
+  <tr>
+    <td rowspan="2">SMTP Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- SNMP Policy -->
+  <tr>
+    <td rowspan="2">SNMP Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- SSH Policy -->
+  <tr>
+    <td rowspan="2">SSH Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Storage Policy -->
+  <tr>
+    <td rowspan="2">Storage Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Syslog Policy -->
+  <tr>
+    <td rowspan="2">Syslog Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Virtual KVM Policy -->
+  <tr>
+    <td rowspan="2">Virtual KVM Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Virtual Media Policy -->
+  <tr>
+    <td rowspan="2">Virtual Media Policy</td>
+    <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
