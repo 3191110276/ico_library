@@ -551,21 +551,6 @@ Object states:
     <th>Reference</th>
   </tr>
   
-  <!-- Interactive Card -->
-  <tr>
-    <td rowspan="2">Interactive Card</td>
-    <td>Create</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Delete</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
-  </tr>
-  
   <!-- Message -->
   <tr>
     <td rowspan="2">Message</td>
