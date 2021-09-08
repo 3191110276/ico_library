@@ -22,6 +22,8 @@ Object states:
 
 
 ## ACI
+
+### Simple
 <table>
   <tr>
     <th>Object</th>
@@ -49,6 +51,8 @@ Object states:
 
 
 ## AppDynamics
+
+### Simple
 <table>
   <tr>
     <th>Object</th>
@@ -279,6 +283,8 @@ Object states:
 ## Intersight Virtualization
 
 ## Kubernetes
+
+### Simple
 <table>
   <tr>
     <th>Object</th>
@@ -698,6 +704,8 @@ Object states:
 ## Nexus
 
 ## ThousandEyes
+
+### Simple
 <table>
   <tr>
     <th>Object</th>
@@ -724,6 +732,8 @@ Object states:
 </table>
 
 ## Webex
+
+### Simple
 <table>
   <tr>
     <th>Object</th>
