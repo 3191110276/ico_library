@@ -313,8 +313,8 @@ Object states:
   <tr>
     <td>Workflow</td>
     <td>Cancel</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:construction: Work in Progress</td>
     <td></td>
   </tr>
 </table>
