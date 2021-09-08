@@ -283,6 +283,50 @@ Object states:
 
 ## Intersight UCS Management
 
+### Simple
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <!-- Server Profile -->
+  <tr>
+    <td rowspan="5">Server Profile</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Clone</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Deploy</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Unassign</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
+
 ## Intersight Virtualization
 
 ### Simple
