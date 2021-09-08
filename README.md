@@ -27,11 +27,6 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 ## Intersight Virtualization
 
 ## Kubernetes
-| Object | Operation | Maintainer | Status | Reference |
-|--------|-----------|------------|--------|-----------|
-| Pod | Create/Update | @mimaurer | :large_blue_circle: Planned | Link |
-
-
 <table>
   <tr>
     <th>Object</th>
