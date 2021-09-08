@@ -577,6 +577,21 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Flow Control Policy -->
+  <tr>
+    <td rowspan="2">Flow Control Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- IMC Access Policy -->
   <tr>
     <td rowspan="2">IMC Access Policy</td>
@@ -682,9 +697,54 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Link Aggregation Policy -->
+  <tr>
+    <td rowspan="2">Link Aggregation Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Local User Policy -->
   <tr>
     <td rowspan="2">Local User Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Network Connectivity Policy -->
+  <tr>
+    <td rowspan="2">Network Connectivity Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Multicast Policy -->
+  <tr>
+    <td rowspan="2">Multicast Policy</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -730,6 +790,21 @@ Object states:
   <!-- Persistent Memory Policy -->
   <tr>
     <td rowspan="2">Persistent Memory Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Port Policy -->
+  <tr>
+    <td rowspan="2">Port Policy</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -895,9 +970,39 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Switch Control Policy -->
+  <tr>
+    <td rowspan="2">Switch Control Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Syslog Policy -->
   <tr>
     <td rowspan="2">Syslog Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- System QoS Policy -->
+  <tr>
+    <td rowspan="2">System QoS Policy</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
@@ -943,6 +1048,36 @@ Object states:
   <!-- Virtual Media Policy -->
   <tr>
     <td rowspan="2">Virtual Media Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- VLAN Policy -->
+  <tr>
+    <td rowspan="2">VLAN Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- VSAN Policy -->
+  <tr>
+    <td rowspan="2">VSAN Policy</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
