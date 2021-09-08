@@ -40,13 +40,13 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td>Create/Update</td>
     <td>@3191110276</td>
     <td>:large_blue_circle: Planned</td>
-    <td>Link</td>
+    <td></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td>@3191110276</td>
     <td>:large_blue_circle: Planned</td>
-    <td>Link</td>
+    <td></td>
   </tr>
 </table>
 
