@@ -91,6 +91,135 @@ Object states:
 
 
 ## Intersight Kubernetes
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <!-- Add-Ons Policy -->
+  <tr>
+    <td rowspan="2">Add-Ons Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Container Runtime Policy -->
+  <tr>
+    <td rowspan="2">Container Runtime Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Kubernetes Version Policy -->
+  <tr>
+    <td rowspan="2">Kubernetes Version Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Network CIDR Policy -->
+  <tr>
+    <td rowspan="2">Network CIDR Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Node OS Configuration Policy -->
+  <tr>
+    <td rowspan="2">Node OS Configuration Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Trusted Certificate Authorities Policy -->
+  <tr>
+    <td rowspan="2">Trusted Certificate Authorities Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Virtual Machine Infra Config Policy -->
+  <tr>
+    <td rowspan="2">Virtual Machine Infra Config Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Virtual Machine Instance Type Policy -->
+  <tr>
+    <td rowspan="2">Virtual Machine Instance Type Policy</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Intersight UCS Management
 
