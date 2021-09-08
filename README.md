@@ -745,7 +745,7 @@ Object states:
   
   <!-- Membership -->
   <tr>
-    <td rowspan="2">Message</td>
+    <td rowspan="2">Membership</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
