@@ -1336,13 +1336,13 @@ Object states:
   <tr>
     <td rowspan="2">Namespace</td>
     <td>Create/Update</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
   <tr>
     <td>Delete</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
@@ -1665,13 +1665,13 @@ Object states:
   <tr>
     <td rowspan="2">Room</td>
     <td>Create</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
   <tr>
     <td>Delete</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
