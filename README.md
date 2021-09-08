@@ -743,6 +743,21 @@ Object states:
     <th>Reference</th>
   </tr>
   
+  <!-- Membership -->
+  <tr>
+    <td rowspan="2">Message</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Message -->
   <tr>
     <td rowspan="2">Message</td>
@@ -758,9 +773,9 @@ Object states:
     <td></td>
   </tr>
   
-  <!-- Space -->
+  <!-- Room -->
   <tr>
-    <td rowspan="2">Space</td>
+    <td rowspan="2">Room</td>
     <td>Create</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
