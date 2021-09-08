@@ -7,7 +7,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Intersight UCS Management](#intersight-ucs-management)
 * [Intersight Virtualization](#intersight-virtualization)
 * [Kubernetes](#Kubernetes)
-* [Nexus](#Nexus)
+* [NX-OS](#nx-os)
 * [ThousandEyes](#ThousandEyes)
 * [Webex](#Webex)
 
@@ -1358,7 +1358,7 @@ Object states:
 </table>
 
 
-## Nexus
+## NX-OS
 
 ## ThousandEyes
 
