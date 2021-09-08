@@ -38,19 +38,17 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <tr>
     <td rowspan="2">Pod</td>
     <td>Create/Update</td>
-    <td>[Michael Maurer](https://github.com/3191110276)</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
   <tr>
     <td>Delete</td>
-    <td>@3191110276</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
 </table>
-
-[Michael Maurer](https://github.com/3191110276)
 
 ## Nexus
 
