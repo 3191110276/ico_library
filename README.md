@@ -270,7 +270,7 @@ Object states:
     <th>Action</th>
     <th>Maintainer</th>
     <th>Status</th>
-    <th>Reference</th>
+    <th>Link</th>
   </tr>
   
   <tr>
