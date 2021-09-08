@@ -81,6 +81,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <td></td>
   </tr>
   
+  <!-- Namespace -->
+  <tr>
+    <td rowspan="2">Namespace</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Persistent Volume -->
   <tr>
     <td rowspan="2">Persistent Volume</td>
