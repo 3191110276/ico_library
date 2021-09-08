@@ -45,6 +45,10 @@ You can use HTML tables on GitHub (but not on StackOverflow)
   </tr>
   <tr>
     <td rowspan="2">Pod</td>
+    <td>Create/Update</td>
+    <td>@mimaurer</td>
+    <td>:large_blue_circle: Planned</td>
+    <td>Link</td>
   </tr>
 </table>
 
