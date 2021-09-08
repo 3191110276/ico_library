@@ -11,6 +11,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Webex](#Webex)
 
 Object states:
+
 :white_check_mark: Implemented
 
 :construction: Work in Progress
