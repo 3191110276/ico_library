@@ -11,6 +11,11 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Webex](#Webex)
 
 
+:white_check_mark: Implemented
+:large_orange_diamond: Work in Progress
+:large_blue_circle: Planned
+:red_circle: Blocked
+
 ## ACI
 
 ## AppDynamics
