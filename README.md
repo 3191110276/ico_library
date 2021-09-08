@@ -22,6 +22,31 @@ Object states:
 
 
 ## ACI
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <!-- Tenant -->
+  <tr>
+    <td rowspan="2">Tenant</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
+
 
 ## AppDynamics
 <table>
