@@ -36,6 +36,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
     <th>Reference</th>
   </tr>
   
+  <!-- ConfigMap -->
+  <tr>
+    <td rowspan="2">ConfigMap</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- Deployment -->
   <tr>
     <td rowspan="2">Deployment</td>
@@ -114,6 +129,21 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
   <!-- ReplicaSet -->
   <tr>
     <td rowspan="2">ReplicaSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Secret -->
+  <tr>
+    <td rowspan="2">Secret</td>
     <td>Create/Update</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
