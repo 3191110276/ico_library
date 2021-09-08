@@ -3,6 +3,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [ACI](#ACI)
 * [AppDynamics](#AppDynamics)
 * [Intersight Kubernetes](#intersight-kubernetes)
+* [Intersight Platform](#intersight-platform)
 * [Intersight UCS Management](#intersight-ucs-management)
 * [Intersight Virtualization](#intersight-virtualization)
 * [Kubernetes](#Kubernetes)
@@ -280,6 +281,28 @@ Object states:
   </tr>
 </table>
 
+
+## Intersight Platform
+
+### Simple
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Reference</th>
+  </tr>
+  
+  <!-- Workflow -->
+  <tr>
+    <td>Workflow</td>
+    <td>Cancel</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Intersight UCS Management
 
