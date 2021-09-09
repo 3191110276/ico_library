@@ -279,6 +279,13 @@ Object states:
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
+  
+  <tr>
+    <td>Auto-Scale Cluster based on IVS utilization</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
 </table>
 
 
