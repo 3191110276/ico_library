@@ -312,7 +312,7 @@ Object states:
   <tr>
     <td>Delete</td>
     <td></td>
-    <td>:large_blue_circle: Planned</td>
+    <td>:construction: Work in Progress</td>
     <td></td>
   </tr>
   
