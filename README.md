@@ -311,7 +311,7 @@ Object states:
   </tr>
   <tr>
     <td>Delete</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:construction: Work in Progress</td>
     <td></td>
   </tr>
