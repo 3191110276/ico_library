@@ -1,15 +1,15 @@
 # ICO Library
 A library of ICO workflows, tasks, and custom data types. All operations are categorized based on the target type. See below for a list of all currently supported target types:
-* [ACI](#cisco-aci)
-* [AppDynamics](#cisco-appdynamics)
-* [Intersight Kubernetes](#cisco-intersight-kubernetes)
-* [Intersight Platform](#cisco-intersight-platform)
-* [Intersight UCS Management](#cisco-intersight-ucs-management)
-* [Intersight Virtualization](#cisco-intersight-virtualization)
+* [Cisco ACI](#cisco-aci)
+* [Cisco AppDynamics](#cisco-appdynamics)
+* [Cisco Intersight Kubernetes](#cisco-intersight-kubernetes)
+* [Cisco Intersight Platform](#cisco-intersight-platform)
+* [Cisco Intersight UCS Management](#cisco-intersight-ucs-management)
+* [Cisco Intersight Virtualization](#cisco-intersight-virtualization)
 * [Kubernetes](#Kubernetes)
-* [NX-OS](#cisco-nx-os)
-* [ThousandEyes](#cisco-thousandeyes)
-* [Webex](#cisco-webex)
+* [Cisco NX-OS](#cisco-nx-os)
+* [Cisco ThousandEyes](#cisco-thousandeyes)
+* [Cisco Webex](#cisco-webex)
 
 
 <!--  
