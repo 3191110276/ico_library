@@ -129,8 +129,8 @@ Object states:
   <tr>
     <td rowspan="5">Cluster Profile</td>
     <td>Create</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:construction: Work in Progress</td>
     <td></td>
   </tr>
   <tr>
@@ -188,9 +188,24 @@ Object states:
     <td></td>
   </tr>
   
-  <!-- Network CIDR Policy -->
+  <!-- NodeGroup Profiles -->
   <tr>
-    <td rowspan="2">Network CIDR Policy</td>
+    <td rowspan="2">NodeGroup Profile</td>
+    <td>Create</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Node OS Configuration Policy -->
+  <tr>
+    <td rowspan="2">Node OS Configuration Policy</td>
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:construction: Work in Progress</td>
