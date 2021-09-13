@@ -947,6 +947,21 @@ Object states:
     <td></td>
   </tr>
   
+  <!-- Server Template -->
+  <tr>
+    <td rowspan="2">Server Template</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
   <!-- SMTP Policy -->
   <tr>
     <td rowspan="2">SMTP Policy</td>
