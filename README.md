@@ -258,8 +258,8 @@ Object states:
   </tr>
   <tr>
     <td>Delete</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
     <td></td>
   </tr>
   
