@@ -304,7 +304,7 @@ Object states:
   </tr>
   
   <tr>
-    <td>Create and deploy a Cluster, including Policies</td>
+    <td>Complete Cluster creation</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
