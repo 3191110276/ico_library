@@ -114,7 +114,7 @@ Object states:
   <tr>
     <td rowspan="2">Add-Ons Policy</td>
     <td>Create</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
@@ -153,7 +153,7 @@ Object states:
   </tr>
   <tr>
     <td>Delete</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
@@ -162,7 +162,7 @@ Object states:
   <tr>
     <td rowspan="2">Container Runtime Policy</td>
     <td>Create</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
@@ -237,7 +237,7 @@ Object states:
   <tr>
     <td rowspan="2">Trusted Certificate Authorities Policy</td>
     <td>Create</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
@@ -252,7 +252,7 @@ Object states:
   <tr>
     <td rowspan="2">Virtual Machine Infra Config Policy</td>
     <td>Create</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
@@ -260,6 +260,21 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
+    <td></td>
+  </tr>
+  
+  <!-- Virtual Machine Infra Provider -->
+  <tr>
+    <td rowspan="2">Virtual Machine Infra Provider</td>
+    <td>Create</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
     <td></td>
   </tr>
   
