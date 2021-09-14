@@ -268,7 +268,7 @@ Object states:
     <td rowspan="2">Virtual Machine Instance Type Policy</td>
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:construction: Work in Progress</td>
+    <td>:white_check_mark: Implemented</td>
     <td></td>
   </tr>
   <tr>
