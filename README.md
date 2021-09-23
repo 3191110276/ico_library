@@ -1,5 +1,6 @@
 # ICO Library
 A library of ICO workflows, tasks, and custom data types. All operations are categorized based on the target type. See below for a list of all currently supported target types:
+* [Cisco Intersight Platform](#cisco-intersight-platform)
 * [Cisco Webex](#cisco-webex)
 
 
@@ -14,6 +15,53 @@ Object states:
 
 :red_circle: Blocked
 -->
+
+
+## Cisco Intersight Platform
+
+### Simple
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- HTTP Target -->
+  <tr>
+    <td rowspan="2">HTTP Target</td>
+    <td>Create</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td></td>
+  </tr>
+  
+  <!-- Managed Object -->
+  <tr>
+    <td>Managed Object</td>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td></td>
+  </tr>
+  
+  <!-- Workflow -->
+  <tr>
+    <td>Workflow</td>
+    <td>Cancel</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td></td>
+  </tr>
+</table>
 
 
 ## Cisco Webex
