@@ -88,7 +88,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/DeleteMembership.json">Link</a></td>
   </tr>
   
   <!-- Message -->
@@ -97,13 +97,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/CreateMessage.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/DeleteMessage.json">Link</a></td>
   </tr>
   
   <!-- Room -->
@@ -112,13 +112,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/CreateRoom.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/DeleteRoom.json">Link</a></td>
   </tr>
   
   <!-- Webhook -->
@@ -127,12 +127,12 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/CreateWebhook.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_webex/DeleteWebhook.json">Link</a></td>
   </tr>
 </table>
