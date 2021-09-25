@@ -82,7 +82,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td>[Link](./cisco_webex/CreateMembership.json)</td>
   </tr>
   <tr>
     <td>Delete</td>
