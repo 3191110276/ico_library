@@ -35,13 +35,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_intersight_platform/CreateHTTPTarget.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_intersight_platform/DeleteHTTPTarget.json">Link</a></td>
   </tr>
   
   <!-- Managed Object -->
