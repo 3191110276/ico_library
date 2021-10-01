@@ -84,13 +84,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKuberneteContainerRuntimePolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesContainerRuntimePolicy.json">Link</a></td>
   </tr>
   
   <!-- Kubernetes Version Policy -->
