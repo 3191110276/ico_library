@@ -159,13 +159,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesNodeTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesNodeTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
   </tr>
   
   <!-- Virtual Machine Infra Config Policy -->
