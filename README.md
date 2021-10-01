@@ -128,13 +128,13 @@ Object states:
     <td rowspan="2">NodeGroup Profile</td>
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:construction: Work in Progress</td>
+    <td>:white_check_mark: Implemented</td>
     <td></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:construction: Work in Progress</td>
+    <td>:white_check_mark: Implemented</td>
     <td></td>
   </tr>
   
