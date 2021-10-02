@@ -128,8 +128,8 @@ Object states:
   <tr>
     <td>Scale</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_kubernetes/ScaleCiscoIntersightKubernetesNodeGroupProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
