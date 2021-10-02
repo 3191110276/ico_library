@@ -21,7 +21,24 @@ Object states:
 ## Cisco Intersight Hyperconverged
 
 ### Simple
-
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- Cluster Profile -->
+  <tr>
+    <td>Cluster Profile</td>
+    <td>Read</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
 
 
 ## Cisco Intersight Kubernetes
