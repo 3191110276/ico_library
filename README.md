@@ -116,7 +116,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesKubernetesVersionPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateKubernetesVersionPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
@@ -131,7 +131,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesNetworkCIDRPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateNetworkCIDRPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
@@ -146,13 +146,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesNodeGroupProfile.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateNodeGroupProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Scale</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/ScaleCiscoIntersightKubernetesNodeGroupProfile.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/ScaleNodeGroupProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
@@ -167,7 +167,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesNodeOSConfigurationPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateCNodeOSConfigurationPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
@@ -182,7 +182,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
@@ -197,7 +197,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesVirtualMachineInfraConfigPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateVirtualMachineInfraConfigPolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
@@ -212,7 +212,7 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/CreateCiscoIntersightKubernetesVirtualMachineInstanceTypePolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/CreateVirtualMachineInstanceTypePolicy.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
