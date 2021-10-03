@@ -6,7 +6,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Cisco Intersight Platform](#cisco-intersight-platform)
 * [Cisco ThousandEyes](#cisco-thousandeyes)
 * [Cisco Webex](#cisco-webex)
-
+* [Continuous Integration](#continuous-integration)
 
 <!--  
 Object states:
@@ -459,3 +459,7 @@ Object states:
     <td></td>
   </tr>
 </table>
+
+
+## Continuous Integration
+To be evaluated
