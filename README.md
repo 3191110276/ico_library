@@ -4,6 +4,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Cisco Intersight Hyperconverged](#cisco-intersight-hyperconverged)
 * [Cisco Intersight Kubernetes](#cisco-intersight-kubernetes)
 * [Cisco Intersight Platform](#cisco-intersight-platform)
+* [Cisco ThousandEyes](#cisco-thousandeyes)
 * [Cisco Webex](#cisco-webex)
 
 
@@ -433,5 +434,34 @@ Object states:
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
     <td><a href="./cisco_webex/tasks/DeleteWebhook.json">Link</a></td>
+  </tr>
+</table>
+
+
+## Cisco ThousandEyes
+
+### Simple
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- Test -->
+  <tr>
+    <td rowspan="2">Test</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
   </tr>
 </table>
