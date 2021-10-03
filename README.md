@@ -7,6 +7,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Cisco ThousandEyes](#cisco-thousandeyes)
 * [Cisco Webex](#cisco-webex)
 * [Continuous Integration](#continuous-integration)
+* [Kubernetes](#kubernetes)
 
 <!--  
 Object states:
@@ -463,3 +464,422 @@ Object states:
 
 ## Continuous Integration
 To be evaluated
+
+
+## Kubernetes
+
+### Tasks
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- ClusterRole -->
+  <tr>
+    <td rowspan="2">ClusterRole</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ClusterRoleBinding -->
+  <tr>
+    <td rowspan="2">ClusterRoleBinding</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ConfigMap -->
+  <tr>
+    <td rowspan="2">ConfigMap</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- CronJob -->
+  <tr>
+    <td rowspan="2">CronJob</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- CustomResourceDefinition -->
+  <tr>
+    <td rowspan="2">CustomResourceDefinition</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- DaemonSet -->
+  <tr>
+    <td rowspan="2">DaemonSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Deployment -->
+  <tr>
+    <td rowspan="2">Deployment</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- HorizontalPodAutoscaler -->
+  <tr>
+    <td rowspan="2">HorizontalPodAutoscaler</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Ingress -->
+  <tr>
+    <td rowspan="2">Ingress</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Job -->
+  <tr>
+    <td rowspan="2">Job</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Namespace -->
+  <tr>
+    <td rowspan="2">Namespace</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Node -->
+  <tr>
+    <td rowspan="2">Node</td>
+    <td>Drain</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Uncordon</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- NetworkPolicy -->
+  <tr>
+    <td rowspan="2">NetworkPolicy</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PersistentVolume -->
+  <tr>
+    <td rowspan="2">PersistentVolume</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PersistentVolumeClaim -->
+  <tr>
+    <td rowspan="2">PersistentVolumeClaim</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Pod -->
+  <tr>
+    <td rowspan="2">Pod</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PodDisruptionBudget -->
+  <tr>
+    <td rowspan="2">PodDisruptionBudget</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- PodSecurityPolicy -->
+  <tr>
+    <td rowspan="2">PodSecurityPolicy</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ReplicaSet -->
+  <tr>
+    <td rowspan="2">ReplicaSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ResourceQuota -->
+  <tr>
+    <td rowspan="2">ResourceQuota</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Role -->
+  <tr>
+    <td rowspan="2">Role</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- RoleBinding -->
+  <tr>
+    <td rowspan="2">RoleBinding</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Secret -->
+  <tr>
+    <td rowspan="2">Secret</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Service -->
+  <tr>
+    <td rowspan="2">Service</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- ServiceAccount -->
+  <tr>
+    <td rowspan="2">ServiceAccount</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- StatefulSet -->
+  <tr>
+    <td rowspan="2">StatefulSet</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- StorageClass -->
+  <tr>
+    <td rowspan="2">StorageClass</td>
+    <td>Create/Update</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
