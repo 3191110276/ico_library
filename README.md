@@ -301,6 +301,22 @@ Object states:
   </tr>
 </table>
 
+### Workflows
+<table>
+  <tr>
+    <th>Action</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <tr>
+    <td>Cancel Workflow</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td></td>
+  </tr>
+
 
 ## Cisco Webex
 
