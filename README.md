@@ -20,7 +20,7 @@ Object states:
 
 ## Cisco Intersight Hyperconverged
 
-### Simple
+### Tasks
 <table>
   <tr>
     <th>Object</th>
@@ -43,7 +43,7 @@ Object states:
 
 ## Cisco Intersight Kubernetes
 
-### Simple
+### Tasks
 <table>
   <tr>
     <th>Object</th>
@@ -222,7 +222,7 @@ Object states:
   </tr>
 </table>
 
-### Composite
+### Workflows
 <table>
   <tr>
     <th>Action</th>
@@ -263,7 +263,7 @@ Object states:
 
 ## Cisco Intersight Platform
 
-### Simple
+### Tasks
 <table>
   <tr>
     <th>Object</th>
@@ -310,7 +310,7 @@ Object states:
 
 ## Cisco Webex
 
-### Simple
+### Tasks
 <table>
   <tr>
     <th>Object</th>
