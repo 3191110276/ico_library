@@ -273,13 +273,13 @@ Object states:
     <td>Create</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/CreateHTTPTarget.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/tasks/CreateHTTPTarget.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/DeleteHTTPTarget.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/tasks/DeleteHTTPTarget.json">Link</a></td>
   </tr>
   
   <!-- Managed Object -->
@@ -288,7 +288,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link</a></td>
   </tr>
   
   <!-- Workflow -->
@@ -297,7 +297,7 @@ Object states:
     <td>Cancel</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/CancelWorkflow.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/tasks/CancelWorkflow.json">Link</a></td>
   </tr>
 </table>
 
@@ -314,7 +314,7 @@ Object states:
     <td>Cancel Workflow</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_intersight_platform/workflows/CancelWorkflow.json">Link</a></td>
   </tr>
 
 
