@@ -65,7 +65,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesAddonsPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Cluster Profile -->
@@ -107,7 +107,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesContainerRuntimePolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Kubernetes Version Policy -->
@@ -122,7 +122,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesKubernetesVersionPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Network CIDR Policy -->
@@ -137,7 +137,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesNetworkCIDRPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- NodeGroup Profiles -->
@@ -158,7 +158,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesNodeGroupProfile.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Node OS Configuration Policy -->
@@ -173,7 +173,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesNodeOSConfigurationPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Trusted Certificate Authorities Policy -->
@@ -188,7 +188,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesTrustedCertificateAuthoritiesPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Virtual Machine Infra Config Policy -->
@@ -203,7 +203,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesVirtualMachineInfraConfigPolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
   
   <!-- Virtual Machine Instance Type Policy -->
@@ -218,9 +218,10 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesVirtualMachineInstanceTypePolicy.json">Link</a></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link*</a></td>
   </tr>
 </table>
+* These Delete operations use the generic "Delete Managed Object" task for Intersight
 
 ### Workflows
 <table>
@@ -287,7 +288,7 @@ Object states:
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td></td>
+    <td><a href="./cisco_intersight_platform/DeleteManagedObject.json">Link</a></td>
   </tr>
   
   <!-- Workflow -->
