@@ -316,7 +316,7 @@ Object states:
     <td>:white_check_mark: Implemented</td>
     <td><a href="./cisco_intersight_platform/workflows/CancelWorkflow.json">Link</a></td>
   </tr>
-
+</table>
 
 ## Cisco Webex
 
