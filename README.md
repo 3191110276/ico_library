@@ -4,6 +4,7 @@ A library of ICO workflows, tasks, and custom data types. All operations are cat
 * [Cisco Intersight Hyperconverged](#cisco-intersight-hyperconverged)
 * [Cisco Intersight Kubernetes](#cisco-intersight-kubernetes)
 * [Cisco Intersight Platform](#cisco-intersight-platform)
+* [Cisco IOx](#cisco-iox)
 * [Cisco ThousandEyes](#cisco-thousandeyes)
 * [Cisco Webex](#cisco-webex)
 * [Continuous Integration](#continuous-integration)
@@ -437,6 +438,11 @@ Object states:
     <td><a href="./cisco_webex/tasks/DeleteWebhook.json">Link</a></td>
   </tr>
 </table>
+
+
+
+## Cisco IOx
+To be evaluated
 
 
 ## Cisco ThousandEyes
