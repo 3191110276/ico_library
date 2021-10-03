@@ -80,19 +80,19 @@ Object states:
     <td>Deploy</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeployCiscoIntersightKubernetesClusterProfile.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/DeployClusterProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Undeploy</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/UndeployCiscoIntersightKubernetesClusterProfile.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/UndeployClusterProfile.json">Link</a></td>
   </tr>
   <tr>
     <td>Delete</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
     <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_kubernetes/DeleteCiscoIntersightKubernetesClusterProfile.json">Link</a></td>
+    <td><a href="./cisco_intersight_kubernetes/DeleteClusterProfile.json">Link</a></td>
   </tr>
   
   <!-- Container Runtime Policy -->
