@@ -22,7 +22,7 @@ Object states:
 
 ## Cisco AppDynamics
 
-### Simple
+### Tasks
 <table>
   <tr>
     <th>Object</th>
@@ -440,26 +440,20 @@ Object states:
 
 ## Cisco ThousandEyes
 
-### Simple
+### Tasks
+
+
+### Workflows
 <table>
   <tr>
-    <th>Object</th>
-    <th>Operation</th>
+    <th>Action</th>
     <th>Maintainer</th>
     <th>Status</th>
     <th>Link</th>
   </tr>
   
-  <!-- Test -->
   <tr>
-    <td rowspan="2">Test</td>
-    <td>Create</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Delete</td>
+    <td>Create a new ThousandEyes test</td>
     <td></td>
     <td>:large_blue_circle: Planned</td>
     <td></td>
