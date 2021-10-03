@@ -1,5 +1,6 @@
 # ICO Library
 A library of ICO workflows, tasks, and custom data types. All operations are categorized based on the target type. See below for a list of all currently supported target types:
+* [Cisco AppDynamics](#cisco-appdynamics)
 * [Cisco Intersight Hyperconverged](#cisco-intersight-hyperconverged)
 * [Cisco Intersight Kubernetes](#cisco-intersight-kubernetes)
 * [Cisco Intersight Platform](#cisco-intersight-platform)
@@ -17,6 +18,50 @@ Object states:
 
 :red_circle: Blocked
 -->
+
+## Cisco AppDynamics
+
+### Simple
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- Application -->
+  <tr>
+    <td rowspan="2">Application</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Database -->
+  <tr>
+    <td rowspan="2">Database</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
+
 
 ## Cisco Intersight Hyperconverged
 
