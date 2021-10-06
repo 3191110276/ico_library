@@ -448,6 +448,195 @@ To be evaluated
 ## Cisco ThousandEyes
 
 ### Tasks
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- HTTP Target -->
+  <tr>
+    <td rowspan="2">HTTP Target</td>
+    <td>Create</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_platform/tasks/CreateHTTPTarget.json">Link</a></td>
+  </tr>
+  <tr>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_platform/tasks/DeleteHTTPTarget.json">Link</a></td>
+  </tr>
+  
+  <!-- Managed Object -->
+  <tr>
+    <td>Managed Object</td>
+    <td>Delete</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link</a></td>
+  </tr>
+  
+  <!-- Workflow -->
+  <tr>
+    <td>Workflow</td>
+    <td>Cancel</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_platform/tasks/CancelWorkflow.json">Link</a></td>
+  </tr>
+</table>
+
+### Workflows
+<table>
+  <tr>
+    <th>Action</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <tr>
+    <td>Cancel Workflow</td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_platform/workflows/CancelWorkflow.json">Link</a></td>
+  </tr>
+</table>
+
+## Cisco Webex
+
+### Tasks
+<table>
+  <tr>
+    <th>Object</th>
+    <th>Operation</th>
+    <th>Maintainer</th>
+    <th>Status</th>
+    <th>Link</th>
+  </tr>
+  
+  <!-- Test: Routing - BGP -->
+  <tr>
+    <td>Test: Routing - BGP</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Network - Agent to Server -->
+  <tr>
+    <td>Test: Network - Agent to Server</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Network - Agent to Agent -->
+  <tr>
+    <td>Test: Network - Agent to Agent</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: DNS - DNS to Server -->
+  <tr>
+    <td>Test: DNS - DNS to Server</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: DNS - DNS Trace -->
+  <tr>
+    <td>Test: DNS - DNS Trace</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: DNS - DNSSEC -->
+  <tr>
+    <td>Test: DNS - DNSSEC</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Web - HTTP Server -->
+  <tr>
+    <td>Test: Web - HTTP Server</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Web - Page Load -->
+  <tr>
+    <td>Test: Web - Page Load</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Web - Transaction -->
+  <tr>
+    <td>Test: Web - Transaction</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Web - FTP Server -->
+  <tr>
+    <td>Test: Web - FTP Server</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Voice - SIP Server -->
+  <tr>
+    <td>Test: Voice - SIP Server</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Test: Voice - RTP Stream -->
+  <tr>
+    <td>Test: Voice - RTP Stream</td>
+    <td>Create</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+  
+  <!-- Any Test -->
+  <tr>
+    <td>Test</td>
+    <td>Delete</td>
+    <td></td>
+    <td>:large_blue_circle: Planned</td>
+    <td></td>
+  </tr>
+</table>
 
 
 ### Workflows
