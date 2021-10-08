@@ -457,69 +457,6 @@ To be evaluated
     <th>Link</th>
   </tr>
   
-  <!-- HTTP Target -->
-  <tr>
-    <td rowspan="2">HTTP Target</td>
-    <td>Create</td>
-    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/CreateHTTPTarget.json">Link</a></td>
-  </tr>
-  <tr>
-    <td>Delete</td>
-    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteHTTPTarget.json">Link</a></td>
-  </tr>
-  
-  <!-- Managed Object -->
-  <tr>
-    <td>Managed Object</td>
-    <td>Delete</td>
-    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/DeleteManagedObject.json">Link</a></td>
-  </tr>
-  
-  <!-- Workflow -->
-  <tr>
-    <td>Workflow</td>
-    <td>Cancel</td>
-    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/tasks/CancelWorkflow.json">Link</a></td>
-  </tr>
-</table>
-
-### Workflows
-<table>
-  <tr>
-    <th>Action</th>
-    <th>Maintainer</th>
-    <th>Status</th>
-    <th>Link</th>
-  </tr>
-  
-  <tr>
-    <td>Cancel Workflow</td>
-    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:white_check_mark: Implemented</td>
-    <td><a href="./cisco_intersight_platform/workflows/CancelWorkflow.json">Link</a></td>
-  </tr>
-</table>
-
-## Cisco Webex
-
-### Tasks
-<table>
-  <tr>
-    <th>Object</th>
-    <th>Operation</th>
-    <th>Maintainer</th>
-    <th>Status</th>
-    <th>Link</th>
-  </tr>
-  
   <!-- Test: Routing - BGP -->
   <tr>
     <td>Test: Routing - BGP</td>
