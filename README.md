@@ -83,8 +83,8 @@ Object states:
     <td>Cluster Profile</td>
     <td>Read</td>
     <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_intersight_hyperconverged/tasks/ReadClusterProfile.json">Link</a></td>
   </tr>
 </table>
 
