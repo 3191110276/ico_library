@@ -441,18 +441,18 @@ To be evaluated
   <tr>
     <td>Test: Web - HTTP Server</td>
     <td>Create</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_thousandeyes/tasks/CreateTest_Web-HTTPServer.json">Link</a></td>
   </tr>
   
   <!-- Test: Web - Page Load -->
   <tr>
     <td>Test: Web - Page Load</td>
     <td>Create</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_thousandeyes/tasks/CreateTest_Web-PageLoad.json">Link</a></td>
   </tr>
   
   <!-- Test: Web - Transaction -->
@@ -495,9 +495,9 @@ To be evaluated
   <tr>
     <td>Test</td>
     <td>Delete</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_thousandeyes/tasks/DeleteTest.json">Link</a></td>
   </tr>
 </table>
 
@@ -513,9 +513,9 @@ To be evaluated
   
   <tr>
     <td>Create a new ThousandEyes test</td>
-    <td></td>
-    <td>:large_blue_circle: Planned</td>
-    <td></td>
+    <td><a href="https://github.com/3191110276">Michael Maurer</a></td>
+    <td>:white_check_mark: Implemented</td>
+    <td><a href="./cisco_thousandeyes/workflows/CreateThousandEyesTest.json">Link</a></td>
   </tr>
 </table>
 
